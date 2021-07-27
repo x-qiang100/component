@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/cloud-01-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-02-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-03-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-01-producer-02/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-05-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-04-feign/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

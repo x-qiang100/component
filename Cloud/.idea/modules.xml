@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cloud.iml" filepath="$PROJECT_DIR$/.idea/Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-01-producer/cloud-01-producer.iml" filepath="$PROJECT_DIR$/cloud-01-producer/cloud-01-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-01-producer-02/cloud-01-producer-02.iml" filepath="$PROJECT_DIR$/cloud-01-producer-02/cloud-01-producer-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-02-consumer/cloud-02-consumer.iml" filepath="$PROJECT_DIR$/cloud-02-consumer/cloud-02-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-03-eureka/cloud-03-eureka.iml" filepath="$PROJECT_DIR$/cloud-03-eureka/cloud-03-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-04-feign/cloud-04-feign.iml" filepath="$PROJECT_DIR$/cloud-04-feign/cloud-04-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-05-config-server/cloud-05-config-server.iml" filepath="$PROJECT_DIR$/cloud-05-config-server/cloud-05-config-server.iml" />
+    </modules>
+  </component>
+</project>
